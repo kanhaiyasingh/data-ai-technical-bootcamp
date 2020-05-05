@@ -10,6 +10,8 @@ The following list provides the student guides for those activities that utilize
 ### Day 1
 [Activity 01: Data Lake Design & Security Considerations](day-01/activity01-data-lake-design-and-security-considerations.md)
 
+[Activity 02: Data Engineering Discussion](day-01/activity02-data-engineering-discussion.md)
+
 
 ### Day 2
 [Activity 03: Data Warehouse Optimization](day-02/activity03-dw-optimization.md)

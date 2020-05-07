@@ -41,6 +41,8 @@ Sales data is currently being inserted into the SQL pool. About 57% of the data 
 
 One of WWI's large LOB systems had a major outage during the month of May 2017. Data was exported using an alternative approach and is available in CSV files. Starting June 2017, data is available as Parquet files.
 
+Also, customer data is only partially imported. Issues with the processing of customer information prevented a complete import of customer data.
+
 ### WWI resources
 
 WWI loaded their data to the primary ADLS Gen2 account for the Synapse Analytics workspace.

@@ -20,3 +20,8 @@ The following list provides the student guides for those activities that utilize
 
 ### Day 3
 [Activity 05: Model Implementation with Predict](day-03/activity05-model-implementation-with-predict.md)
+
+
+### Day 4
+[PoC Challenge](./day-04/challenges.md)
+

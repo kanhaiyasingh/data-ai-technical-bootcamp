@@ -45,7 +45,7 @@ One of WWI's large LOB systems had a major outage during the month of May 2017. 
 
 WWI loaded their data to the primary ADLS Gen2 account for the Synapse Analytics workspace.
 
-You can find the CSV files for May 2017 in the following path: `wwi02/sale-poc`.
+You can find the CSV files for May 2017 in the following path: `wwi-02 / sale-poc`.
 
 You can find the Parquet files in the following paths:
 
@@ -54,6 +54,8 @@ You can find the Parquet files in the following paths:
 - `wwi-02 / sale-small / Year=2017 / Quarter=Q4`
 - `wwi-02 / sale-small / Year=2018`
 - `wwi-02 / sale-small / Year=2019`
+
+You can find the complete customer data in the following path: `wwi-02 / data-generators / generator-customer.csv`. The file should be approximately 140 MB in size.
 
 >**IMPORTANT TECHNICAL NOTE**
 >
